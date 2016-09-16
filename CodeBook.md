@@ -98,7 +98,7 @@ This code book summarizes the resulting data fields in 'tidy.txt'.
 5. "STANDING": subject was standing
 6. "LAYING": subject was laying down
 
-```{r
+```r
 str(allData.mean)
 ```
 ```
